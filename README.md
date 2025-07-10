@@ -1,7 +1,7 @@
 
 
 ```markdown
-# 🛡️ Phishing URL Detector using PyTorch and Flask
+# 🛡️ Website Detector for phishing using PyTorch and Flask
 
 This project is a machine learning-based web application that detects phishing URLs in real time. It uses a neural network built with PyTorch and serves predictions via a simple Flask web interface.
 
@@ -23,7 +23,7 @@ This project is a machine learning-based web application that detects phishing U
 
 The dataset used in this project is publicly available:
 
-📎 [https://github.com/ZephyrCX/dataset_url_70000](https://github.com/ZephyrCX/dataset_url_70000)
+📎 [https://github.com/ZephyrCX/dataset_url_70000]
 
 ---
 
@@ -32,8 +32,8 @@ The dataset used in this project is publicly available:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/phishing-url-detector.git
-cd phishing-url-detector
+git clone https://github.com/night30nk/Website-Detector.git
+
 ````
 
 ### 2. Set Up Virtual Environment (Recommended)
@@ -140,19 +140,9 @@ The model uses the following features from each URL:
 
 ---
 
-## 📃 License
-
-This project is open-source under the MIT License.
-
----
 
 ## 🤝 Contributing
 
 Pull requests are welcome! If you have suggestions for improvements, feel free to open an issue or PR.
 
----
 
-```
-
-Let me know if you'd like to include screenshots or deployment instructions (e.g., Docker or Heroku).
-```
